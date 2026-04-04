@@ -90,6 +90,8 @@
 | Item                        | 項目               | こうもく       |                                            |
 | Details                     | 詳細               | しょうさい     |                                            |
 | Requirements                | 要求               | ようきゅう     |                                            |
+| Integration   | 連携               | れんけい       | System linkage, API integration            |
+| Operation / Behavior        | 動作               | どうさ         | How something functions or works           |
 | Enabled                     | 有効               | ゆうこう       |                                            |
 | Disabled                    | 無効               | むこう         |                                            |
 | Factory reset               | 初期化             | しょきか       |                                            |
@@ -105,6 +107,7 @@
 | To indent           | インデントする   |                |                              |
 | To select           | 選択する         | せんたくする   |                              |
 | To search           | 検索する         | けんさくする   |                              |
+| Full-text search    | 全文検索         | ぜんぶんけんさく |         |
 | To process          | 処理する         | しょりする     |                              |
 | To optimize         | 最適化する       | さいてきかする |                              |
 | Processing          | 処理             | しょり         |                              |
@@ -187,6 +190,15 @@
 | Leak                      | リーク                 |                  | Memory/resource leak |
 | Embedded system           | 組込みシステム         | くみこみシステム |                     |
 | Foo / Bar                 | ほげ / ほげほげ         |                  | Placeholder names   |
+
+### 📋 Issue/Task Status
+
+| English           | Japanese       | Kana       | Notes                          |
+|-------------------|----------------|------------|--------------------------------|
+| Not started       | 未着手         | みちゃくしゅ | Task hasn't begun yet          |
+| Started / In progress | 開始         | かいし     | Task has started               |
+| Resolved / Fixed  | 解決済み       | かいけつずみ | Issue has been resolved        |
+| Achieved / Completed | 達成         | たっせい   | Goal or requirement completed  |
 
 ## 🔐 Security
 | English                     | Japanese           | Kana                     | Notes               |
