@@ -144,7 +144,7 @@
 | Call by address   | ポインタ渡し     | ポインタわたし |                    |
 | Constructor       | コンストラクタ   |                |                      |
 | Closure           | クロージャ       |                |                      |
-| Early return      | 早期リターン     |                |                      |
+| Early return      | 早期リターン     | そうきリターン |                      |
 
 ### 🧮 Data Types
 
