@@ -79,6 +79,7 @@
 | Feature                     | 機能               | きのう         |                                            |
 | Execution                   | 実行               | じっこう       | Of a program or function                   |
 | Patch                       | パッチ             |                | パッチを適用する                           |
+| Diff / Difference           | 差分               | さぶん         | E.g., git diff                             |
 | Fixed                       | 固定               | こてい         |                                            |
 | To apply                    | 適用する           | てきようする   |                                            |
 | To resolve                  | 解決する           | かいけつする   | E.g., dependency resolution                |
@@ -178,6 +179,7 @@
 | Brackets / Parentheses    | 括弧                   | かっこ           |                     |
 | Synchronous               | 同期                   | どうき           |                     |
 | Asynchronous              | 非同期                 | ひどうき         |                     |
+| Parallel                  | 並列                   | へいれつ         |                     |
 | Object-Oriented Programming | オブジェクト指向     | オブジェクトしこう |                  |
 | Functional Programming    | 関数型プログラミング   | かんすうがたプログラミング |           |
 | Artificial Intelligence   | 人工知能               | じんこうちのう   |                     |
